@@ -39,3 +39,13 @@ body{
 .table-contain1:hover{
     border: 1px solid black;
 }
+@media only screen and (max-width: 700px){
+    .table-contain{
+        width: 95%;
+        height: 4.5vh;
+    }
+    .table-contain1{
+        width: 95%;
+        height: 4.5vh;
+    }
+}
